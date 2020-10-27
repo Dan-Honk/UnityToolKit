@@ -1,0 +1,408 @@
+fileFormatVersion: 2
+guid: 08f86cb3497868548bb399aac4ff1dfa
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: b2_n213_wangzi
+    100002: //RootNode
+    100004: b2_n213_wangzi02
+    100006: Bip001
+    100008: Bip001 Head
+    100010: Bip001 L Calf
+    100012: Bip001 L Clavicle
+    100014: Bip001 L Finger0
+    100016: Bip001 L Finger01
+    100018: Bip001 L Finger1
+    100020: Bip001 L Finger11
+    100022: Bip001 L Finger2
+    100024: Bip001 L Finger21
+    100026: Bip001 L Finger3
+    100028: Bip001 L Finger31
+    100030: Bip001 L Finger4
+    100032: Bip001 L Finger41
+    100034: Bip001 L Foot
+    100036: Bip001 L Forearm
+    100038: Bip001 L Hand
+    100040: Bip001 L Thigh
+    100042: Bip001 L Toe0
+    100044: Bip001 L UpperArm
+    100046: Bip001 Neck
+    100048: Bip001 Pelvis
+    100050: Bip001 R Calf
+    100052: Bip001 R Clavicle
+    100054: Bip001 R Finger0
+    100056: Bip001 R Finger01
+    100058: Bip001 R Finger1
+    100060: Bip001 R Finger11
+    100062: Bip001 R Finger2
+    100064: Bip001 R Finger21
+    100066: Bip001 R Finger3
+    100068: Bip001 R Finger31
+    100070: Bip001 R Finger4
+    100072: Bip001 R Finger41
+    100074: Bip001 R Foot
+    100076: Bip001 R Forearm
+    100078: Bip001 R Hand
+    100080: Bip001 R Thigh
+    100082: Bip001 R Toe0
+    100084: Bip001 R UpperArm
+    100086: Bip001 Spine
+    100088: Bip001 Spine1
+    100090: Bip002
+    100092: Bip002 Footsteps
+    100094: Bip002 Head
+    100096: Bip002 L Calf
+    100098: Bip002 L Foot
+    100100: Bip002 L Thigh
+    100102: Bip002 L Toe0
+    100104: Bip002 L Toe0Nub
+    100106: Bip002 Neck
+    100108: Bip002 Pelvis
+    100110: Bip002 R Calf
+    100112: Bip002 R Foot
+    100114: Bip002 R Thigh
+    100116: Bip002 R Toe0
+    100118: Bip002 R Toe0Nub
+    100120: Bip002 Spine
+    100122: Bip002 Spine1
+    100124: Bone001
+    100126: Bone002
+    100128: Bone003
+    100130: Bone004
+    100132: Bone0049
+    100134: Bone005
+    100136: Bone006
+    100138: Bone007
+    100140: Bone008
+    100142: Bone009
+    100144: Bone010
+    100146: Bone011
+    100148: Bone012
+    100150: Bone013
+    100152: Bone014
+    100154: Bone015
+    100156: Bone016
+    100158: Bone017
+    100160: Bone018
+    100162: Bone019
+    100164: Bone020
+    100166: Bone021
+    100168: Bone022
+    100170: Bone023
+    100172: Bone024
+    100174: Bone025
+    100176: Bone027
+    100178: Bone028
+    100180: Bone029
+    100182: Bone030
+    100184: Bone031
+    100186: Bone032
+    100188: Bone032(mirrored)
+    100190: Bone033
+    100192: Bone033(mirrored)
+    100194: Bone034
+    100196: Bone034(mirrored)
+    100198: Bone035
+    100200: Bone036
+    100202: Bone037
+    100204: Bone042
+    100206: Bone043
+    100208: Bone044
+    100210: Bone045
+    100212: Bone046
+    100214: Bone047
+    100216: Bone048
+    100218: Bone049
+    100220: Bone050
+    100222: Bone051
+    100224: Bone052
+    100226: Bone053
+    100228: Bone054
+    100230: Bone055
+    100232: Bone056
+    100234: Bone057
+    100236: Bone058
+    100238: Bone059
+    100240: Bone060
+    100242: Bone061
+    100244: Bone062
+    100246: Bone062 1
+    100248: Bone063
+    100250: Bone063 1
+    100252: Bone064
+    100254: Bone065
+    100256: Bone066
+    100258: Bone067
+    100260: Bone068
+    100262: Bone069
+    100264: Bone070
+    100266: Bone071
+    100268: Bone072
+    100270: Bone073
+    100272: Bone074
+    100274: Bone075
+    100276: Bone_mouth_001
+    100278: E_top
+    100280: hand_R
+    100282: Point001
+    100284: Point002
+    100286: zhongxin
+    400000: //RootNode
+    400002: b2_n213_wangzi
+    400004: b2_n213_wangzi02
+    400006: Bip001
+    400008: Bip001 Head
+    400010: Bip001 L Calf
+    400012: Bip001 L Clavicle
+    400014: Bip001 L Finger0
+    400016: Bip001 L Finger01
+    400018: Bip001 L Finger1
+    400020: Bip001 L Finger11
+    400022: Bip001 L Finger2
+    400024: Bip001 L Finger21
+    400026: Bip001 L Finger3
+    400028: Bip001 L Finger31
+    400030: Bip001 L Finger4
+    400032: Bip001 L Finger41
+    400034: Bip001 L Foot
+    400036: Bip001 L Forearm
+    400038: Bip001 L Hand
+    400040: Bip001 L Thigh
+    400042: Bip001 L Toe0
+    400044: Bip001 L UpperArm
+    400046: Bip001 Neck
+    400048: Bip001 Pelvis
+    400050: Bip001 R Calf
+    400052: Bip001 R Clavicle
+    400054: Bip001 R Finger0
+    400056: Bip001 R Finger01
+    400058: Bip001 R Finger1
+    400060: Bip001 R Finger11
+    400062: Bip001 R Finger2
+    400064: Bip001 R Finger21
+    400066: Bip001 R Finger3
+    400068: Bip001 R Finger31
+    400070: Bip001 R Finger4
+    400072: Bip001 R Finger41
+    400074: Bip001 R Foot
+    400076: Bip001 R Forearm
+    400078: Bip001 R Hand
+    400080: Bip001 R Thigh
+    400082: Bip001 R Toe0
+    400084: Bip001 R UpperArm
+    400086: Bip001 Spine
+    400088: Bip001 Spine1
+    400090: Bip002
+    400092: Bip002 Footsteps
+    400094: Bip002 Head
+    400096: Bip002 L Calf
+    400098: Bip002 L Foot
+    400100: Bip002 L Thigh
+    400102: Bip002 L Toe0
+    400104: Bip002 L Toe0Nub
+    400106: Bip002 Neck
+    400108: Bip002 Pelvis
+    400110: Bip002 R Calf
+    400112: Bip002 R Foot
+    400114: Bip002 R Thigh
+    400116: Bip002 R Toe0
+    400118: Bip002 R Toe0Nub
+    400120: Bip002 Spine
+    400122: Bip002 Spine1
+    400124: Bone001
+    400126: Bone002
+    400128: Bone003
+    400130: Bone004
+    400132: Bone0049
+    400134: Bone005
+    400136: Bone006
+    400138: Bone007
+    400140: Bone008
+    400142: Bone009
+    400144: Bone010
+    400146: Bone011
+    400148: Bone012
+    400150: Bone013
+    400152: Bone014
+    400154: Bone015
+    400156: Bone016
+    400158: Bone017
+    400160: Bone018
+    400162: Bone019
+    400164: Bone020
+    400166: Bone021
+    400168: Bone022
+    400170: Bone023
+    400172: Bone024
+    400174: Bone025
+    400176: Bone027
+    400178: Bone028
+    400180: Bone029
+    400182: Bone030
+    400184: Bone031
+    400186: Bone032
+    400188: Bone032(mirrored)
+    400190: Bone033
+    400192: Bone033(mirrored)
+    400194: Bone034
+    400196: Bone034(mirrored)
+    400198: Bone035
+    400200: Bone036
+    400202: Bone037
+    400204: Bone042
+    400206: Bone043
+    400208: Bone044
+    400210: Bone045
+    400212: Bone046
+    400214: Bone047
+    400216: Bone048
+    400218: Bone049
+    400220: Bone050
+    400222: Bone051
+    400224: Bone052
+    400226: Bone053
+    400228: Bone054
+    400230: Bone055
+    400232: Bone056
+    400234: Bone057
+    400236: Bone058
+    400238: Bone059
+    400240: Bone060
+    400242: Bone061
+    400244: Bone062
+    400246: Bone062 1
+    400248: Bone063
+    400250: Bone063 1
+    400252: Bone064
+    400254: Bone065
+    400256: Bone066
+    400258: Bone067
+    400260: Bone068
+    400262: Bone069
+    400264: Bone070
+    400266: Bone071
+    400268: Bone072
+    400270: Bone073
+    400272: Bone074
+    400274: Bone075
+    400276: Bone_mouth_001
+    400278: E_top
+    400280: hand_R
+    400282: Point001
+    400284: Point002
+    400286: zhongxin
+    2100000: b2_n213_wangzi_02
+    2100002: b2_n213_wangzi_01
+    4300000: b2_n213_wangzi02
+    4300002: b2_n213_wangzi
+    9500000: //RootNode
+    13700000: b2_n213_wangzi
+    13700002: b2_n213_wangzi02
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: b2_n213_wangzi_01
+    second: {fileID: 2100000, guid: 949acdfe6ea6c6f45866e822590d1f74, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: b2_n213_wangzi_02
+    second: {fileID: 2100000, guid: 0060120ce785cb849aea21bb148d2647, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 1
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths:
+    - b2_n213_wangzi
+    - b2_n213_wangzi02
+    - zhongxin
+    - zhongxin/Bip001
+    - zhongxin/Bip001/Bip001 Pelvis
+    - zhongxin/Bip001/Bip001 Pelvis/Bip001 Spine
+    - zhongxin/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1
+    - zhongxin/Bip002
+    - zhongxin/Bip002/Bip002 Pelvis/Bip002 Spine
+    - zhongxin/Bip002/Bip002 Pelvis/Bip002 Spine/Bip002 Spine1
+    - zhongxin/E_top
+    - zhongxin/Bip002/Bip002 Pelvis/Bone071/Bone072/Bone073/Point002
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 1
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 0
+    importBlendShapes: 0
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 1
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 2
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: zhongxin
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: cc_meshes.actors.npc.b2_n213_wangzi.b2_n213_wangzi.gameobject.ab
+  assetBundleVariant: 
